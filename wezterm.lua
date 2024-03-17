@@ -7,7 +7,7 @@ config.font_size = 14
 config.background = {
 	{
 		source = {
-			File = '/home/moose/Pictures/DesktopBackgrounds/mononoke024.jpg',
+			File = '/home/moose/Pictures/DesktopBackgrounds/mononoke024Blurred0x8.jpg',
 		},
 		hsb = {
 			brightness = 0.2,
